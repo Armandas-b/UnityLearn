@@ -1,6 +1,6 @@
-Due to prototype state, the games do not have any menus, ui or other necessary elements, to restart the game you have to quit and open again.
+THESE ARE JUST PROTOTYPES, THEY ARE MISSING VARIOUS THINGS AND MAY BE RIDDLED WITH BUGS.
 Assets used are from the lesson packages, I have no rights to sell or distribute them
-THESE ARE ONLY PROTOTYPES THAT WERE BUILT DURING UNITY LEARN JUNIOR PROGRAMMER PATH.
+These prototypes were built following the Junior Programmer course online at unity
 
 To exit the game press DELETE key on your keyboard
 
